@@ -1,3 +1,3 @@
 # Hannel's HTMLCSS Mastery Assignment
 
-It is due on Friday, February 2.
+It is due on Friday, February 9.
