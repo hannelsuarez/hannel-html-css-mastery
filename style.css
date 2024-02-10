@@ -1,0 +1,83 @@
+html {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 62.5%;
+}
+
+p, ul, ol, dl {
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+  margin-bottom: 12px;
+}
+
+article {
+  margin: auto;
+  max-width: 620px;
+}
+
+.ubuntu-regular {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Ubuntu", Arial, sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  padding-top: 9px;
+  padding-bottom: 7px;
+}
+
+h2 {
+  font-size: 2.3rem;
+  padding-top: 5px;
+  padding-bottom: 7px;
+}
+
+h3 {
+  font-size: 1.75rem;
+  padding-bottom: 11px;
+}
+
+h4 {
+  font-size: 1.35rem;
+}
+
+.byline {
+  font-family: Arial, Helvetica;
+  font-size: 1.9rem;
+  padding-top: 10px;
+}
+
+figcaption {
+  font-family: Arial, Helvetica;
+  font-size: 1.1rem;
+  position: relative;
+  text-align: right;
+  margin-top: 2px;
+  padding-bottom: 8px;
+  
+}
+
+#date {
+  font-style: italic;
+}
+
+blockquote {
+  border-left: 4px grey solid;
+  padding-left: 20px;
+  margin-left: 30px;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+.comments {
+  background-color: #5bb099;
+  padding: 12px;
+  margin: auto;
+  max-width: 620px;
+}
